@@ -14,7 +14,7 @@
 </p>
 
 ![Tonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonito-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonito-dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonito-dev&layout=compact&theme=radical&cache_seconds=1800)
 
 
 <h3 align="left">Languages and Tools:</h3>
