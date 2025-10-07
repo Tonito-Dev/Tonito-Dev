@@ -29,9 +29,9 @@
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonito-dev&show_icons=true&theme=radical" alt="Tonny's GitHub stats" />
+  <img src="[https://github-readme-stats.vercel.app](https://github-readme-stats-pied-one-82.vercel.app/)/api?username=tonito-dev&show_icons=true&theme=radical" alt="Tonny's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonito-dev&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app](https://github-readme-stats-pied-one-82.vercel.app/)/api/top-langs/?username=tonito-dev&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
