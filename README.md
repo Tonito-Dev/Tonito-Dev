@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Backdev**  
-- 🌱 Expert in **Golang,Bun & Nodejs, Hono**  
+- 🌱 Expert in **Golang, Bun & Nodejs, Hono**  
 - 💬 Ask me about **C, Golang, Javascript, React, Vue, Next.js, TypeScript**  
 - 📫 Reach me: **mwasumbi2524@gmail.com**
 
