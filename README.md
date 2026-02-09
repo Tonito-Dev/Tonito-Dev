@@ -6,8 +6,8 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Backdev**  
-- 🌱 Learning **Golang & Rust**  
-- 💬 Ask me about **C, Python, React, Vue, Next.js, TypeScript**  
+- 🌱 Expert in **Golang,Bun & Nodejs, Hono**  
+- 💬 Ask me about **C, Golang, Javascript, React, Vue, Next.js, TypeScript**  
 - 📫 Reach me: **mwasumbi2524@gmail.com**
 
 ---
