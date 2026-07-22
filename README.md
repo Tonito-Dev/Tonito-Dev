@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Backend-Focused+Full+Stack+Developer;Specializing+in+Go+%E2%80%A2+Node.js+(Bun)+%E2%80%A2+Hono;Building+High-Performance+APIs+%26+Distributed+Systems;Based+in+Tanzania+%F0%9F%87%B9%F0%9F%87%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Backend-Focused+Full+Stack+Developer;Specializing+in+Go+%E2%80%A2+Javascript+%E2%80%A2+Python;Building+High-Performance+APIs+%26+Distributed+Systems;Based+in+Tanzania+%F0%9F%87%B9%F0%9F%87%BF" alt="Typing SVG" />
 </a>
 
 </div>
@@ -112,7 +112,7 @@
 ### 🐍 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tonito-dev/tonito-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonito-dev&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
