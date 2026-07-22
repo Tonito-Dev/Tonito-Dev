@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Backend-Focused+Full+Stack+Developer;Specializing+in+Go+%E2%80%A2+Node.js+(Bun)+%E2%80%A2+Hono;Building+High-Performance+APIs+%26+Distributed+Systems;Based+in+Tanzania+%F0%9F%87%B9%F0%9F%87%BF" alt="Typing SVG" />
 </a>
 
----
-
 </div>
+
+---
 
 ### ⚡ Quick System Diagnostics (`bio.json`)
 
@@ -95,12 +95,15 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonito-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonito-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <p align="center">
+    <img src="https://github-readme-stats-pied-one-82.vercel.app/api?username=tonito-dev&show_icons=true&theme=radical" />
+    <br />
+    <img src="https://github-readme-stats-pied-one-82.vercel.app/api/top-langs/?username=tonito-dev&layout=compact&theme=radical" />
+  </p>
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonito-dev&theme=tokyonight&hide_border=true" alt="Streak Stat" />
+  <img src="https://streak-stats.demolab.com?user=tonito-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -117,6 +120,7 @@
 ### 📬 Connect With Me
 
 <div align="center">
+
   <a href="mailto:mwasumbi2524@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -132,6 +136,7 @@
   <a href="https://github.com/tonito-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+
 </div>
 
 <br />
