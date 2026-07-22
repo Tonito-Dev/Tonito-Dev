@@ -1,48 +1,141 @@
-<h1 align="center">Tonny Ayoub (Tonito-Dev)</h1>
-<p align="center">
-  Backend-Focused Full Stack Developer • Go • Node.js • React • Tanzania
-</p>
+<div align="center">
+
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Backend-Focused+Full+Stack+Developer;Specializing+in+Go+%E2%80%A2+Node.js+(Bun)+%E2%80%A2+Hono;Building+High-Performance+APIs+%26+Distributed+Systems;Based+in+Tanzania+%F0%9F%87%B9%F0%9F%87%BF" alt="Typing SVG" />
+</a>
 
 ---
 
-### Professional Summary
-I build reliable backend systems, APIs, and developer-focused tools with an emphasis on performance, maintainability, and clean architecture.
+</div>
 
-### Core Expertise
-- Backend engineering with **Go**, **Node.js (Bun)**, and **Hono**
-- Frontend development with **React** and **Next.js**
-- Database design and integration with **PostgreSQL** and **MongoDB**
-- Containerized development workflows using **Docker** and **Linux**
+### ⚡ Quick System Diagnostics (`bio.json`)
 
-### Current Focus
-- Designing scalable backend services for production use
-- Improving software architecture and system design skills
-- Expanding practical DevOps and distributed systems knowledge
-
----
-
-### Selected Projects
-- **Task Queue API (Go)** — Worker-pool architecture with retries and scheduled jobs
-- **University Project Management System** — Next.js + Supabase platform with authentication, real-time updates, and dashboards
-- **AI Tools Collection** — Developer utilities powered by modern AI workflows
-
----
-
-### Connect
-<p align="left">
-  <a href="mailto:mwasumbi2524@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tonny-mwasumbi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+```json
+{
+  "developer": "Tonny Ayoub",
+  "handle": "tonito-dev",
+  "location": "Tanzania 🇹🇿",
+  "role": "Backend-Focused Full Stack Developer",
+  "core_competencies": [
+    "High-Performance API Design",
+    "Concurrent Worker Pools & Async Systems",
+    "Microservice Architecture & Clean Code",
+    "Full-Stack Integration (React & Next.js)"
+  ],
+  "current_focus": [
+    "Scalable Go Distributed Services",
+    "Event-Driven Architecture",
+    "DevOps & Containerization with Docker"
+  ]
+}
+```
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-pied-one-82.vercel.app/api?username=tonito-dev&show_icons=true&theme=radical" />
+### 🌐 Core Technical Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ Languages & Runtimes</h4>
+      <img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,nodejs,bun&theme=dark" />
+      <h4>⚡ Backend & APIs</h4>
+      <img src="https://skillicons.dev/icons?i=go,express,nestjs,fastapi,graphql&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Frontend & UI</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" />
+      <h4>🗄️ Databases & DevOps</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,redis,docker,kubernetes,aws,linux&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Task Queue API</h3>
+      <p><b>Core Stack:</b> <code>Go</code> • <code>Worker-Pool</code> • <code>REST</code></p>
+      <ul>
+        <li>High-throughput backend queue built with concurrent Go worker pools.</li>
+        <li>Implements exponential backoff retries and cron-style scheduled job execution.</li>
+        <li>Engineered for thread safety and ultra-low latency memory footprint.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 University Project Management System</h3>
+      <p><b>Core Stack:</b> <code>Next.js</code> • <code>Supabase</code> • <code>PostgreSQL</code></p>
+      <ul>
+        <li>Full-stack academic platform with role-based authentication and real-time updates.</li>
+        <li>Dynamic analytics dashboard for milestone tracking and submission workflows.</li>
+        <li>Real-time database sync powered by Supabase WebSockets.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3>🤖 AI Tools Collection</h3>
+      <p><b>Core Stack:</b> <code>Node.js / Bun</code> • <code>Hono</code> • <code>LLM Integrations</code></p>
+      <ul>
+        <li>Suite of developer utility CLI & API tools leveraging modern AI workflows.</li>
+        <li>Optimized execution speed utilizing Bun runtime and lightweight Hono API endpoints.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Metrics & Activity
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonito-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonito-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
   <br />
-  <img src="https://github-readme-stats-pied-one-82.vercel.app/api/top-langs/?username=tonito-dev&layout=compact&theme=radical" />
-</p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonito-dev&theme=tokyonight&hide_border=true" alt="Streak Stat" />
+
+</div>
+
+---
+
+### 🐍 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tonito-dev/tonito-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+  <a href="mailto:mwasumbi2524@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/tonito_dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tonny-mwasumbi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tonito-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></sub>
+</div>
